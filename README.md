@@ -10,7 +10,9 @@
 ## 🌐 Liens sociaux
 - [LinkedIn]( https://www.linkedin.com/in/paul-hadjicosta-3143b4234/  ) 
 
+## 📊 Profil Views
 
+![Profile views](https://komarev.com/ghpvc/?username=hiFredo&label=Profile%20views&color=blue&style=plastic)
 
 ## 🚀 Statistiques GitHub
 
@@ -26,6 +28,8 @@
 ## 📊 Langages utilisés
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiFredo&langs_count=10&layout=compact&theme=radical)
+
+
 
 
 
