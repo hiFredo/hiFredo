@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @hiFredo
+# 👋 Salut, je suis @Fredo
 
 - 👀 Je suis intéressé par les jeux vidéo
 - 🌱 J'apprends actuellement à développer des applications web
