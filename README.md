@@ -27,7 +27,7 @@
 
 ## 📊 Langages utilisés
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=hiFredo&langs_count=10&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=hiFredo&langs_count=10&layout=compact&theme=radical))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiFredo&langs_count=10&layout=compact&theme=radical)
 
 
 
