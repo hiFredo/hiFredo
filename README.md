@@ -3,7 +3,6 @@
 - 👀 Je suis intéressé par les jeux vidéo
 - 🌱 J'apprends actuellement à développer des applications web
 - 📫 Comment me contacter : [hadjicostapaul@gmail.com](mailto:hadjicostapaul@gmail.com)
-- 😄 Pronoms : (à compléter)
 - ⚡ Fait amusant : Passionné par l'informatique, mais souvent rejeté par le système (oui, je parle bien de ce fameux  Parcoursup, qui a vraiment du mal à saisir mon amour pour les lignes de code 😂).
 
 
