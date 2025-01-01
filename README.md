@@ -32,8 +32,3 @@
 
 
 
-
-<!---
-hiFredo/hiFredo est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
-Vous pouvez cliquer sur le lien Aperçu pour jeter un œil à vos modifications.
---->
